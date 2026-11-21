@@ -10,5 +10,3 @@
 - **[Learn](https://oauth.how/learn/)** builds from identity and permissions to OAuth flows and token validation.
 - **[Playground](https://oauth.how/playground/)** lets you step through Authorization Code + PKCE, inspect the HTTP messages, and verify a sample JWT. All exercises use fictional data.
 - **[Reference](https://oauth.how/reference/)** brings together key terms, protocol parameters, and links to the specifications.
-
-[Browse the source and lessons on GitHub](https://github.com/oauth-how/oauth.how).
